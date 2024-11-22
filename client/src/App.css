@@ -1,0 +1,17 @@
+/* Basic reset and styling */
+body {
+  font-family: Arial, sans-serif;
+}
+
+form input, form button {
+  margin: 10px;
+  padding: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+}
